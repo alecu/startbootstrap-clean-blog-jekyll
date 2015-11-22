@@ -9,9 +9,7 @@ This is my demo of how you can use your device running the snappy Ubuntu Core to
 
 tl;dr, here’s the demo video:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/G4HYuvcE_QI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
-
-https://goo.gl/photos/ezGiAokLG7HpLyoC9
+<iframe width="853" height="480" src="https://www.youtube.com/embed/MSEjZq_Qp6M?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
 
 A few months ago I got the Orange Matchbox that I intended to use for my work on the snappy scope, but almost immediately I got moved to some more urgent tasks. Kyle took over that, and ended up producing this awesome video.
 My orange matchbox sat on my desk accusingly. I started to shop for ideas on how to use it, and learn about snappy and snapcraft on the process. I decided that it would be fun to use the MinIMU-9 module I have on my hackerspace box. The MinIMU-9 module is a wonderful little thing that holds an accelerometer, a gyroscope, and a magnetometer, all easily accessible via I²C.
@@ -30,3 +28,4 @@ I’ve made a few further posts with some details on some of those steps:
 #### &#9679; [How I built the snap packages for my snappy demo using snapcraft]({% post_url 2015-11-18-snappy-build-snapcraft %})
 
 #### &#9679; [My first snapcraft.yaml]({% post_url 2015-11-19-my-first-snapcraft-yaml %})
+

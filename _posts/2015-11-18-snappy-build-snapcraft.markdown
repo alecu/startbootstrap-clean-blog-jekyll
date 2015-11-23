@@ -5,6 +5,10 @@ date:   2015-11-18 10:00:00
 categories: snappy raspi snapcraft
 header-img: "img/hovercraft.jpg"
 ---
+(This post is part of a series on how to get started with
+[packaging your IoT apps for the snappy Ubuntu Core]({% post_url 2015-11-20-ubuntu-core-demo %}).)
+
+----
 
 Inside the lxc container, let’s switch to the “ubuntu” user, and clone my git repo:
 
@@ -20,7 +24,7 @@ ubuntu@my-ubuntu:~$ cd minecraft-minimu9
 ubuntu@my-ubuntu:~/minecraft-minimu9$ 
 {% endhighlight %}
 
-The repository contains a snapcraft.yaml file, that tells snapcraft what steps are needed to build it.
+The repository contains a `snapcraft.yaml` file, that tells snapcraft what steps are needed to build it.
 Let’s try that:
 
 {% highlight console %}
@@ -44,7 +48,7 @@ ubuntu@my-ubuntu:~/minecraft-minimu9$
 
 
 
-This will produce a minecraft-minimu9_1_armhf.snap file that we can install in the base system, like this:
+This will produce a `minecraft-minimu9_1_armhf.snap` file that we can install in the base system, like this:
 
 {% highlight console %}
 (RaspberryPi2)ubuntu@localhost:~$ sudo snappy install --allow-unauthenticated \ ~/my-ubuntu-home/minecraft-minimu9/minecraft-minimu9_1_armhf.snap 
@@ -69,10 +73,7 @@ Since it’s trying to access the serial port, and everything under snappy runs 
 
 And with that we have our snap package installed, running and able to access the hardware port.
 
-We can try our demo by pointing a browser at port 8989 of the raspbi’s IP address, eg: http://192.168.1.131:8989/ and we should see something like this:
-
-----
-This post is part 4 in a series of posts on how to get started writting IoT apps for the snappy Ubuntu Core.
+We can try our demo by pointing a browser at port 8989 of the raspbi’s IP address, eg: `http://192.168.1.131:8989/` and we should see the minecraft demo page loading and updating as we move the MinIMU-9.
 
 [core-download]:    http://cdimage.ubuntu.com/ubuntu-snappy/15.04/stable
 [raspi-write-sd]:   https://www.raspberrypi.org/documentation/installation/installing-images/

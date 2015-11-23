@@ -5,6 +5,12 @@ date:   2015-11-16 10:00:00
 categories: snappy raspi
 header-img: "img/orange-matchbox.jpg"
 ---
+(This post is part of a series on how to get started with
+[packaging your IoT apps for the snappy Ubuntu Core]({% post_url 2015-11-20-ubuntu-core-demo %}).)
+
+----
+
+
 Get the Ubuntu Core image from: [http://cdimage.ubuntu.com/ubuntu-snappy/15.04/stable][core-download].
 You want a file named like: `ubuntu-15.04-snappy-armhf-raspi2.img.xz`
 
@@ -65,9 +71,6 @@ See "man sudo_root" for details.
 
 (RaspberryPi2)ubuntu@localhost:~$
 {% endhighlight %}
-
-----
-This post is part 1 in a series of posts on how to get started writting IoT apps for the snappy Ubuntu Core.
 
 [core-download]:    http://cdimage.ubuntu.com/ubuntu-snappy/15.04/stable
 [raspi-write-sd]:   https://www.raspberrypi.org/documentation/installation/installing-images/

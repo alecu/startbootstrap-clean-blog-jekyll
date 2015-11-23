@@ -5,6 +5,10 @@ date:   2015-11-17 10:00:00
 categories: snappy raspi snapcraft
 header-img: "img/container-city.jpg"
 ---
+(This post is part of a series on how to get started with
+[packaging your IoT apps for the snappy Ubuntu Core]({% post_url 2015-11-20-ubuntu-core-demo %}).)
+
+----
 
 You can set up snapcraft on your PC with Ubuntu, and you’ll be able to compile and build snap packages there, but you won’t be able to run them on the snappy Ubuntu Core running on your Raspi2, because the hardware architecture is not the same. Apps that go into your snap need to be compiled for the ARM cpu in the raspi.
 
@@ -104,10 +108,6 @@ I suggest an extra step, to be able to easily retrieve files built in the lxc co
 {% endhighlight %}
 
 With that we'll be able to access any file created inside the container with the shortcut `~/my-ubuntu-home` 
-
-
-----
-This post is part 2 in a series of posts on how to get started writting IoT apps for the snappy Ubuntu Core.
 
 [core-download]:    http://cdimage.ubuntu.com/ubuntu-snappy/15.04/stable
 [raspi-write-sd]:   https://www.raspberrypi.org/documentation/installation/installing-images/

@@ -11,7 +11,9 @@ Here's a quick video that shows it in action:
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/NlVo3YanlqQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
 
-Super Ventilagon is heavily inspired by the amazing [Super Hexagon](http://superhexagon.com/). More than two years ago I was spending countless hours banging my head against the screen, trying to last a whole minute without losing, until I finally realized that it would be a great thing to build a POV display to play it.
+Super Ventilagon is heavily inspired by the amazing [Super Hexagon](http://superhexagon.com/). A bit more than heavily, it's a blatant rip-off.
+
+More than two years ago I was spending countless hours banging my head against the screen, trying to last a whole minute without losing, until I finally realized that it would be a great thing to build a POV display to play it.
 
 At the time I was finishing [Reflektor]({% post_url 2013-09-22-reflektor %}) (my first electromechanical game), so I only did a quick prototype and shelved it. Being the busy father I am, I only get to spend three hours a week in my local hackerspace (and not even every week!), so it took some time to get back on track.
 

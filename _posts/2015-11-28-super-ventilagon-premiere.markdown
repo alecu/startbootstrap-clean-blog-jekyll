@@ -5,7 +5,7 @@ date:   2015-11-28 10:00:00
 categories: games electromechanical
 header-img: "img/super-ventilagon.jpg"
 ---
-This Saturday 28th we're having the public premiere Super Ventilagon, my second electromechanical game.
+This Saturday 28th we're having the world premiere of Super Ventilagon, my second electromechanical game.
 
 Here's a quick video that shows it in action:
 

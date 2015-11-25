@@ -22,3 +22,5 @@ But a few months ago it started to get into shape, and it started being playable
 There are so many things that can go wrong with hardware-based games. Like the fan's motor getting overburned and stopping to run. Or circuit boards getting loosen from the fan's propeller, jumping thru the air, breaking into pieces and spreading integrated circuits thru the room. Luckily only two of those tiny inconveniences happened to us.
 
 So it's with a lot of anticipation that I would like to invite you all to play Super Ventilagon, this Saturday 28th of November, 22pm. We are showing it in Casa Abasto, Anchorena 632, Buenos Aires. Hope you can make it!
+
+If not, don't worry: we'll be showing it again on some events during the year, and also we've published the [sourcecode and schematics](https://github.com/clubdejaqueo/super-ventilagon) as open source so you can make your own.

@@ -23,4 +23,4 @@ There are so many things that can go wrong with hardware-based games. Like the f
 
 So it's with a lot of anticipation that I would like to invite you all to play Super Ventilagon, this Saturday 28th of November, 22pm. We are showing it in Casa Abasto, Anchorena 632, Buenos Aires. Hope you can make it!
 
-If not, don't worry: we'll be showing it again on some events during the year, and also we've published the [sourcecode and schematics](https://github.com/clubdejaqueo/super-ventilagon) as open source so you can make your own.
+If not, don't worry: we'll be showing it again on some events during the year, and also we've published the [source code and schematics](https://github.com/clubdejaqueo/super-ventilagon) as open source so you can make your own.

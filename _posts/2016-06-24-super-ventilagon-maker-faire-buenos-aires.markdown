@@ -14,4 +14,4 @@ Super Ventilagon está fuertemente inspirado en el asombroso [Super Hexagon](htt
 
 Si quieren construir su propio Super Ventilagon, el código fuente y los esquemáticos son libres y están disponibles [en Github](https://github.com/clubdejaqueo/super-ventilagon).
 
-Para cualquier consulta por el juego pueden contactarnos en (ventilagon@protocultura.net)[mailto:ventilagon@protocultura.net]
+Para cualquier consulta por el juego pueden contactarnos en: [ventilagon@protocultura.net](mailto:ventilagon@protocultura.net)

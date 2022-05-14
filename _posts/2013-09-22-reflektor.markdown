@@ -7,7 +7,7 @@ header-img: "img/reflektor-full.jpg"
 ---
 This is a video of my first electromechanical game, being presented in the Toy Museum in San Isidro (Buenos Aires):
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/G4HYuvcE_QI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/e7ipcoS6vwA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen> </iframe>
 
 You need to precisely align some mirrors that will allow you to reflect the laser to the goal, but only after solving some puzzles and traps, and you need to do it before time runs out. It's inspired by a game by Costa Panayi called [Deflektor][deflektor], that I used to play in the eighties on a CZ Spectrum.
 

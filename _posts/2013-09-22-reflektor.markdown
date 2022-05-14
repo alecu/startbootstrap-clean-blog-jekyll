@@ -15,6 +15,9 @@ Reflektor was made using an Arduino board for the game logic, another Arduino bo
 
 The [schematics and source code][reflektor-github] are available in case you want to build your own. Feel free to contact me with any questions or if you'd like to bring it to your event.
 
+Here are some [nicer pictures][pictures] of РЕФЛЕКТОР.
+
 [wave-shield]: https://www.adafruit.com/products/94
 [reflektor-github]: https://github.com/clubdejaqueo/reflektor
 [deflektor]: https://en.wikipedia.org/wiki/Deflektor
+[pictures]: https://www.flickr.com/photos/alecu/albums/72157635917885536/with/9952299495/
